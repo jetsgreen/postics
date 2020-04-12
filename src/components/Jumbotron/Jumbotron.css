@@ -1,0 +1,63 @@
+
+.top-container {
+    margin: 30px 50px;
+    line-height: 1.4;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas: 
+    'showcase showcase top-box-a'
+    'showcase showcase top-box-b' ;
+}
+
+.showcase{
+    grid-area: showcase;
+    min-height: 400px;
+    background: url("https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2020/crossovers-suvs/suburban/mov/01-images/2020-suburban-mast-01.jpg?imwidth=960");
+    background-size: cover;
+    background-position: center;
+    padding-left: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+   
+}
+.showcase h1 {
+    font: 4rem;
+    margin-bottom: 0;
+    color: white;
+}
+.showcase p {
+    font-size: 1.3rem;
+    margin-top: 0;
+    color: white;
+}
+.top-box .price{
+    font-size: 2.5rem;
+}
+.top-box {
+    background: lightgrey;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    padding: 1.5rem;
+}
+
+.top-box-a{
+    grid-area: top-box-a;
+}
+.top-box-b{
+    grid-area: top-box-b;
+}
+
+.btn {
+   color: white;
+   border: solid skyblue;
+   height: 30px;
+   padding: 5px;
+   border-radius: 6px;
+   background: rgba(0,0,0,0.7);
+}
+.btn:hover{
+    cursor: pointer;
+}

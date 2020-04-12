@@ -1,5 +1,5 @@
 .navbar {
-    position: fixed;
+    position: relative;
     top: 0;
     z-index: 1;
     display: flex;
@@ -32,4 +32,6 @@
 }
 #logo {
     margin-top: 3px;
+    margin-left: 3px;
+  
 }
