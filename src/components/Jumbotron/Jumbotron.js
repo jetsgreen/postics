@@ -7,7 +7,7 @@ const Jumbotron =() => {
         
 <div className="top-container">
             <header className="showcase">
-                <h1>Felix Luxury Limo</h1>
+                <h1>Let Us Take You There</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Praesentium fuga molestiae veritatis possimus, saepe dolores,
 
