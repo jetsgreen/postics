@@ -10,7 +10,7 @@
 
     {
         "id": 2,
-        "name": "Prom",
+        "name": "Proms",
         "image": "https://images.unsplash.com/photo-1525020017919-9428db8b3e75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2052&q=80",
         "title": "Prom Party Packages",
         "descripiton":  "NY | NJ Prom Limousine Services from First Class Limousine! 6 | 8 | 10 Hour packages available for our exclusive limousines!"
@@ -21,10 +21,18 @@
         "id": 3,
         "name": "Hourly Rentals",
         "image": "https://images.unsplash.com/photo-1519121785383-3229633bb75b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80",
-        "title": "A La Cart",
+        "title": "Competitive Pricing",
         "descripiton":  "Nights Out | Birthday Party | Special Events and more! Our Diverse Fleet of Limousines will meet your needs!"
        
-    }
+    },
+{
+    "id": 4,
+    "name": "Airport Rides",
+    "image": "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "title": "All Major Airports in Tri-State",
+    "descripiton":  "Avoid the stress and leave the driving to us! Prompt Courteous Professional Services to all major airports in the tri-state area"
+   
+}
         
     
 ]

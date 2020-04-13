@@ -11,7 +11,7 @@ const Card = (props) =>{
       <div className="content">
         <ul>
           <li>
-             {props.name} 
+             <h1>{props.name}</h1>
           </li>
           <li>
              {props.title}

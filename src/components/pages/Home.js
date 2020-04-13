@@ -1,7 +1,7 @@
 import React from 'react';
 import Jumbotron from '../Jumbotron/Jumbotron';
 import Info from  '../Info/Info';
-// import HomeImg from '../HomeImg/HomeImg'
+
 
 
 const Home = () => {
@@ -9,7 +9,7 @@ const Home = () => {
         <div>
             <Jumbotron />
             <Info/>
-            {/* <HomeImg/> */}
+           
         </div>
 
     )
