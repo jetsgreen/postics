@@ -1,14 +1,14 @@
 import React from 'react';
-import Jumbotron from '../Jumbotron/Jumbotron';
-import Info from  '../Info/Info';
+import Info from '../../components/Info/Info';
+import Jumbotron from '../../components/Jumbotron/Jumbotron'
 
 
 
 const Home = () => {
     return (
         <div>
-            <Jumbotron />
-            <Info/>
+        <Jumbotron/>
+      <Info/>
            
         </div>
 

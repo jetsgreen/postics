@@ -1,19 +1,28 @@
 import React from 'react';
-import {NavLink} from 'react-router-dom'
+import AppBar from '@material-ui/core/AppBar';
+import Typography from '@material-ui/core/Typography';
+import Toolbar from '@material-ui/core/Toolbar';
+import { NavLink } from 'react-router-dom'
 import './Navbar.css';
 
 
 const Navbar = () => {
-    return(
-        <div>
-            <nav className="navbar">
-            <i id="logo"className="fas fa-dice-d20 fa-3x"></i><span><h2 style={{margin: '0', padding: '5px', color: 'white'}}>Felix Luxury Limo</h2></span>
-            <ul>
-                <li><NavLink to ="/" exact>Home</NavLink></li>
-                <li><NavLink to ="/services" >Services</NavLink></li>
-                <li><NavLink to ="/contact" >Contact Us</NavLink></li>
-            </ul>
-        </nav>
+    return (
+        <div className="toolbar">
+            <AppBar position="static" >
+                <Toolbar xs={3} md={12}>
+
+                    <Typography variant="h6" className="navbar">
+                        <NavLink to="/" style={{ color: "white", textDecoration: "none" }}>Home</NavLink>
+                
+                        <NavLink to="/services" style={{ color: "white", textDecoration: "none" }}>Services</NavLink>
+                
+                        <NavLink to="/contact" style={{ color: "white", textDecoration: "none" }}>Contact</NavLink>
+                    </Typography>
+                    
+                </Toolbar>
+            </AppBar>
+
         </div>
     )
 }

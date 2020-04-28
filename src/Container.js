@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import Navbar from './components/Navbar/Navbar';
-import Layout from './components/Layout/Layout';
-
+import Navbar from './components/Navbar/Navbar'
 
 
 export class Container extends Component {
@@ -9,11 +7,8 @@ export class Container extends Component {
     render() {
         return (
             <div>
-                <Navbar />
-                <Layout>
-                  
-
-                </Layout>
+           <Navbar/>
+             
             </div>
         )
     }
