@@ -18,7 +18,10 @@ const Jumbotron = () => {
                 <div className="content">
                     <h1>Felix Luxury Limo</h1>
                     <h3>We Can Get You There</h3>
-                    <NavLink to="/" className="btn">Learn More</NavLink>
+                   
+                    <NavLink to="/" className="btn">Make a Reservation</NavLink>
+                    <NavLink to="/" className="btn">Get a Quote</NavLink>
+                   
                 </div>
             </section>
             
