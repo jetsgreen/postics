@@ -19,8 +19,8 @@ const Jumbotron = () => {
                     <h1>Felix Luxury Limo</h1>
                     <h3>We Can Get You There</h3>
                    
-                    <NavLink to="/" className="btn">Make a Reservation</NavLink>
-                    <NavLink to="/" className="btn">Get a Quote</NavLink>
+                    <NavLink to="/contact" className="btn">Make a Reservation</NavLink>
+                    <NavLink to="/about" className="btn">Learn More</NavLink>
                    
                 </div>
             </section>

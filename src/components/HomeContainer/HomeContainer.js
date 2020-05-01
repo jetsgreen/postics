@@ -39,7 +39,7 @@ const HomeContainer = () => {
                 <img src="https://images.unsplash.com/photo-1464038008305-ee8def75f234?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="image" class="image" />
                 <div class="overlay overlayFade">
                     <div class="text">
-                        <p>Empire Limousine offers a luxurious chauffeur service right within your budget. 
+                        <p>Felix Luxury Limo offers a luxurious chauffeur service right within your budget. 
                             Choose an airport anywhere in the Try-State area and you will have our airport
                              transfer service which is completely reliable and safe.</p>
                     </div>
