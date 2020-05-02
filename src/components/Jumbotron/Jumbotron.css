@@ -49,7 +49,7 @@ h1 {
  
 }
 
-.video-container video {
+.video-container img {
 	min-width: 100%;
 	min-height: 100%;
     position: absolute;
