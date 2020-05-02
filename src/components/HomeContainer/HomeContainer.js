@@ -16,7 +16,7 @@ const HomeContainer = () => {
             <div>
         <div>
             <div class="home-container">
-                <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mb-metris-gallery-passenger-van-02-1578419740.jpg?crop=0.752xw:1.00xh;0.0529xw,0&resize=640:*" alt="image" class="image" />
+                <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mb-metris-gallery-passenger-van-02-1578419740.jpg?crop=0.752xw:1.00xh;0.0529xw,0&resize=640:*" alt="about" class="image" />
                 <div class="overlay overlayFade">
                     <div class="text">
                         <p>Whether you are on a business trip, vacation, or have a special occasion, Empire Limousine is at your service. 
@@ -26,7 +26,7 @@ const HomeContainer = () => {
                 </div>
             </div>
             <div class="home-container">
-                <img src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="image" class="image" />
+                <img src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="about" class="image" />
                 <div class="overlay overlayFade">
                     <div class="text">
                         <p>At Felix Luxury Limo, we have a team of qualified and experienced chauffeurs for providing a smooth ride. 
@@ -36,7 +36,7 @@ const HomeContainer = () => {
                 </div>
             </div>
             <div class="home-container">
-                <img src="https://images.unsplash.com/photo-1464038008305-ee8def75f234?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="image" class="image" />
+                <img src="https://images.unsplash.com/photo-1464038008305-ee8def75f234?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" alt="about" class="image" />
                 <div class="overlay overlayFade">
                     <div class="text">
                         <p>Felix Luxury Limo offers a luxurious chauffeur service right within your budget. 

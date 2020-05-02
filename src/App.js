@@ -14,7 +14,7 @@ function App() {
       <BrowserRouter>
      <Container/>
      <Switch>
-       <Route exact path="/" component={Home}/>
+       <Route exact path="/postics" component={Home}/>
        <Route  path="/about" component={About}/>
        <Route  path="/contact" component={Contact}/>
        <Route  path="/services" component={Services}/>

@@ -13,7 +13,8 @@ const Jumbotron = () => {
             <section className="showcase">
                 
                 <div className="video-container">
-                    <video src="./video/main.mp4" autoPlay loop></video>
+                    <video src="../video/main.mp4" autoPlay loop></video>
+                    
                 </div>
                 <div className="content">
                     <h1>Felix Luxury Limo</h1>
