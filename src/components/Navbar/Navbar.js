@@ -12,10 +12,11 @@ const Navbar = () => {
             
            
             <nav className="navbar">
-            <h1>Felix Luxury Limo</h1>
+            {/* <h1>Felix Luxury Limo</h1> */}
+            <i className="fas fa-caravan fa-3x"></i>
                      <div className="navbar-links">
                         <NavLink to="/postics" className="links">
-                           Home
+                           Felix Luxury Limo
                         </NavLink>
                         <NavLink to="/about" className="links">
                            About 

@@ -40,7 +40,7 @@
   }
  }
  @media(max-width: 600px) {
-   h1{
+   .fa-caravan{
      display: none;
    }
  }

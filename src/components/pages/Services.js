@@ -16,7 +16,7 @@ export class Services extends Component {
                 {this.state.services.map(service => (
                   <Card
                   id={service.id}
-                  key={service.key}
+                  key={service.id}
                   image={service.image}
                   name={service.name}
                   title={service.title}
