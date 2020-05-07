@@ -28,4 +28,19 @@
     display: none;
   } */
   
-
+ @media(max-width: 600px) {
+  .links{
+    font-size: 15px;
+    padding: 6px;
+  }
+ }
+ @media(max-width: 600px) {
+  .navbar{
+   width: 100%;
+  }
+ }
+ @media(max-width: 600px) {
+   h1{
+     display: none;
+   }
+ }

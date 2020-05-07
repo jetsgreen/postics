@@ -32,7 +32,20 @@
     "title": "All Major Airports in Tri-State",
     "descripiton":  "Avoid the stress and leave the driving to us! Prompt Courteous Professional Services to all major airports in the tri-state area"
    
-}
-        
+},
+{
+    "id": 5,
+    "name": "Package Delivery",
+    "image": "https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+    "title": "You can rely on us for your delivery needs",
+    "descripiton":  "Avoid the stress and leave the driving to us! Prompt Courteous Professional Services to all major airports in the tri-state area"  
+},
+   {
+    "id": 6,
+    "name": "Casinos",
+    "image": "https://images.unsplash.com/photo-1517232115160-ff93364542dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=966&q=80",
+    "title": "Atlantic City is just a short ride away",
+    "descripiton":  "We offer safe and reliable fleet service to all major casinos in the United States. We make sure you arrive in style at the best casinos in the nation."
+   }     
     
 ]

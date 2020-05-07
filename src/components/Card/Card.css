@@ -7,7 +7,9 @@
     display: inline-block;
     width: 350px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-    text-align: left;
+    text-align: center;
+    padding: 17px;
+    
   }
   
   .card > .img-container {
