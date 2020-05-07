@@ -1,6 +1,6 @@
 import React from 'react';
 import './Jumbotron.css';
-
+import videoMP4 from '../../video/main.mp4';
 import { NavLink } from 'react-router-dom'
 
 
@@ -13,9 +13,8 @@ const Jumbotron = () => {
             <section className="showcase">
                 
                 <div className="video-container">
-                    {/* <video src="../../video/main.mp4" autoPlay loop></video> */}
-                    <img src="https://images.unsplash.com/photo-1559075403-a91eebbc7d03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1190&q=80" alt="substitute"/>
-                    
+                    <video src={videoMP4} autoPlay loop></video>
+
                 </div>
                 <div className="content">
                     <h1>Felix Luxury Limo</h1>
