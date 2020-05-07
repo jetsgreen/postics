@@ -9,7 +9,7 @@ const ServiceDiv = () => {
             <h1 style={{fontFamily:'sans-serif', fontSize:'30px'}}>Our Services</h1>
             <p>We offer many different services such as airport transportation, private aviation services, pier & 
                 cruise transportation, wedding & prom transportation, drives to casinos or business travel, family 
-                travel, and many more! Empire Limousine is your one-stop destination for all your transportation needs.
+                travel, and many more! Felix Luxury Limo is your one-stop destination for all your transportation needs.
                If you are a travel agent, book your client with Felix Luxury Limo and get a 5% commission on every ride.
                </p>
         </div>
